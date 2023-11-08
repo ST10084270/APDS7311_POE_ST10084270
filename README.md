@@ -1,6 +1,8 @@
 # APDS7311_POE_ST10084270
 APDS7311 POE
 
+***please note my task 2 code was appended and now contains the required code for the poe
+
 Open a terminal in vs code and enter the following commands in this order:
 
 
